@@ -20,8 +20,10 @@ O tema inclui páginas dinâmicas integradas ao painel do WordPress e componente
 - **CSS3** – Estilos e responsividade  
 - **JavaScript** – Interações básicas e scripts customizados  
 - **Funções WordPress** (`functions.php`) – Registro de menus, scripts e suporte a recursos do tema  
+<br>
 
 Desenvolvimento: Flavia Sigoli V. Moreira
 
 Projeto: Tema WordPress personalizado para o site JSL Cleaning
+
 Tecnologias: PHP, HTML, CSS, JavaScript e WordPress
